@@ -5,7 +5,7 @@ A neural network for traffic prediction.
 The code for this paper is implemented based on the [LibCity](https://github.com/LibCity/Bigscity-LibCity) platform.  
 You can find the original platform at: https://github.com/LibCity/Bigscity-LibCity
 
-## Getting Started
+## Installation
 
 ### 1. Clone this repository
 
@@ -26,3 +26,7 @@ conda activate GAMAN
 ```bash
 pip install -r requirements.txt
 ```
+## Train
+python run_model.py --task traffic_state_pred --model GAMAN --dataset pemsd8
+
+## Evalaute
