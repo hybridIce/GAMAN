@@ -27,6 +27,11 @@ conda activate GAMAN
 pip install -r requirements.txt
 ```
 ## Train
+```bash
 python run_model.py --task traffic_state_pred --model GAMAN --dataset pemsd8
+```
 
 ## Evalaute
+```bash
+python run_model.py --task traffic_state_pred --model GAMAN --dataset pemsd8 --exp_id GAMAG_pemsd8
+```
