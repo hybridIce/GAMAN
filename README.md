@@ -11,9 +11,4 @@ You can find the original platform at: https://github.com/LibCity/Bigscity-LibCi
 ```bash
 git clone https://github.com/hybridIce/GAMAN.git
 cd GAMAN
-### 2. Create a virtual environment (recommended)
-
-```bash
-python3 -m venv venv
-source venv/bin/activate   # On Linux/macOS
 
