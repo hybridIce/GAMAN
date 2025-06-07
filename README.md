@@ -1,3 +1,4 @@
+
 # GAMAN
 
 A neural network for traffic prediction.  
@@ -11,9 +12,23 @@ You can find the original platform at: https://github.com/LibCity/Bigscity-LibCi
 ```bash
 git clone https://github.com/hybridIce/GAMAN.git
 cd GAMAN
+```
+
 ### 2. Create a virtual environment (recommended)
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate   # On Linux/macOS
+```
 
+If you are on Windows, run:
+
+```bash
+venv\Scripts ctivate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
