@@ -17,14 +17,8 @@ cd GAMAN
 ### 2. Create a virtual environment (recommended)
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate   # On Linux/macOS
-```
-
-If you are on Windows, run:
-
-```bash
-venv\Scripts ctivate
+conda create -n GAMAN python==3.9
+conda activate GAMAN
 ```
 
 ### 3. Install dependencies
