@@ -35,30 +35,30 @@ DOI: 10.1007/s00521-025-11378-0
   publisher = {Springer}
 }
 
-## 📦 安装 (Installation)
+## 📦 Installation
 
 
-**步骤 (Steps)**
-1.  克隆本仓库到本地：
+**Steps**
+1.  Clone this repository to your local machine:
     ```bash
     git clone https://github.com/hybridIce/GAMAN.git
     cd GAMAN
     ```
 
-2.  （推荐）创建一个新的 conda 虚拟环境并激活它：
+2.  (Recommended) Create and activate a new conda virtual environment:
     ```
     conda create -n gaman python=3.8
     conda activate gaman
     ```
 
 
-3.  安装依赖包：
+3.  Install dependencies:
     ```
     pip install -r requirements.txt
     ```
-4.  准备数据集
-    请参考libcity  https://github.com/LibCity/Bigscity-LibCity
-## 🚀 快速开始 (Quick Start)
+4.  Prepare datasets:
+    Please refer to the LibCity documentation at https://github.com/LibCity/Bigscity-LibCity.
+## 🚀 Quick Start
 
 
     python run_model.py --task traffic_state_pred --model GAMAN --dataset PeMSD8
