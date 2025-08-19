@@ -27,8 +27,6 @@
 ## 🚀 快速开始 (Quick Start)
 
 
-    ```
     python run_model.py --task traffic_state_pred --model GAMAN --dataset PeMSD8
-    ```
 
 
