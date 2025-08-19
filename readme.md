@@ -22,13 +22,13 @@
     ```
     pip install -r requirements.txt
     ```
-
+4.  准备数据集
+    请参考libcity  https://github.com/LibCity/Bigscity-LibCity
 ## 🚀 快速开始 (Quick Start)
 
-这是最重要的部分，用一个最简单的例子告诉用户如何立刻用起来。
 
-python run_model.py --task traffic_state_pred --model GAMAN --dataset PeMSD8
+    ```
+    python run_model.py --task traffic_state_pred --model GAMAN --dataset PeMSD8
+    ```
 
-# 3. 训练模型 (这里简化了训练循环)
-model.fit(graph_data, features, labels, epochs=100)
 
