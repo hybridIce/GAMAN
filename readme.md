@@ -1,5 +1,29 @@
 # GAMAN
+GAMAN: Gated Attention Unit and Mask Attention Network for Traffic Flow Forecasting
+This repository contains the implementation of GAMAN, a deep learning framework for short-term traffic flow prediction. GAMAN combines Gated Attention Units (GAU) for temporal modeling and masked attention for spatial dependencies, achieving high performance, computational efficiency, and interpretability on real-world datasets like PeMSD4 and PeMSD8.
 
+Paper Details
+
+Title: Gated attention unit and mask attention network for traffic flow forecasting
+Author: Sen Leng
+Journal: Neural Computing and Applications
+Publisher: Springer Nature
+Received: 26 April 2024
+Accepted: 3 October 2024
+Published: 2025
+DOI: 10.1007/s00521-025-11378-0
+Link: Full Paper on Springer
+
+
+@article{leng2025gated,
+  title = {Gated attention unit and mask attention network for traffic flow forecasting},
+  author = {Leng, Sen},
+  journal = {Neural Computing and Applications},
+  year = {2025},
+  doi = {10.1007/s00521-025-11378-0},
+  url = {https://doi.org/10.1007/s00521-025-11378-0},
+  publisher = {Springer}
+}
 
 ## 📦 安装 (Installation)
 
