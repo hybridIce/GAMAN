@@ -11,7 +11,6 @@ Publisher: Springer Nature
 Received: 26 April 2024  
 Accepted: 3 October 2024  
 Published: 2025  
-DOI: 10.1007/s00521-025-11378-0  
 Link: #[Full Paper on Springer](https://link.springer.com/article/10.1007/s00521-025-11378-0)
 
 Paper Details
