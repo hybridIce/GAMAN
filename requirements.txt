@@ -1,0 +1,17 @@
+dgl==0.6.1
+fastdtw==0.3.4
+gensim==4.0.1
+geopy==2.0.0
+hyperopt==0.2.5
+networkx==2.5.1
+nltk==3.2.4
+numpy==1.19.4
+pandas==1.1.5
+ray==1.2.0
+scikit_learn==0.24.0
+scipy==1.5.3
+statsmodels==0.11.0
+torch==1.8.0
+torchdiffeq==0.2.3
+torchtext==0.6.0
+tqdm==4.60.0
